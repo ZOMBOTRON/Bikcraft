@@ -26,6 +26,8 @@
   margin-bottom: 40px;
   font-size: 64px;
   line-height: 1.125;
+  font-family: "Poppins";
+  font-weight: 600;
 }
 
 .introducao-conteudo h1 span {
@@ -37,6 +39,8 @@
   font-size: 24px;
   line-height: 1.5;
   color: #b2b2b2;
+  font-family: "Roboto";
+  font-weight: 400;
 }
 .introducao-conteudo a {
   padding: 16px 32px;
@@ -48,7 +52,8 @@
   color: #332200;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: "Roboto";
+  font-weight: 600;
 }
 @media (max-width: 600px) {
   .introducao-conteudo a {
