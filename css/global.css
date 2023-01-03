@@ -5,6 +5,10 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  body {
+    padding-bottom: 600px;
+  }
   
   a{
     text-decoration: none;
@@ -18,5 +22,6 @@
   img {
     max-width: 100%;
     display: block;
+    border-radius: 4px;
   }
   
