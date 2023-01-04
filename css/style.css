@@ -2,3 +2,7 @@
 @import "./global.css";
 @import "./header.css";
 @import "./introducao.css";
+
+/* UTILITARIO */
+
+@import "./utilitario.css";
