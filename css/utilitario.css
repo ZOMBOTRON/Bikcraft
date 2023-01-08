@@ -1,3 +1,9 @@
+.conteiner {
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
 .butao {
   padding: 16px 32px;
   display: inline-block;

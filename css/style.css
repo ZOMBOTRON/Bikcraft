@@ -7,3 +7,6 @@
 /* UTILITARIO */
 
 @import "./utilitario.css";
+
+/* LISTA DE BICICLETAS */
+@import "../bicicletas/bicicletas-lista.css";
