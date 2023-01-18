@@ -17,6 +17,18 @@
   font-family: "Roboto";
   font-weight: 600;
 }
+
+.link {
+  display: inline-block;
+  color: var(--cor-p1);
+  font: 500 1.5rem/1.5 "Poppins", sans-serif;
+  border-bottom: 4px solid currentColor;
+}
+
+.link:hover {
+  color: var(--cor-0);
+}
+
 @media (max-width: 600px) {
   .butao {
     padding: 12px 16px;
