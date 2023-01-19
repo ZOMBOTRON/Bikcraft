@@ -16,8 +16,13 @@
   line-height: 1.33;
   font-family: "Roboto";
   font-weight: 600;
+  max-width: max-content;
 }
 
+.butao.secundario {
+  background: var(--cor-10);
+  color: var(--cor-p2);
+}
 .link {
   display: inline-block;
   color: var(--cor-p1);
