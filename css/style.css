@@ -14,3 +14,7 @@
 
 /* LISTA DE BICICLETAS */
 @import "../bicicletas/bicicletas-lista.css";
+
+/* Paginas internas */
+@import "./termos.css";
+@import "./bicicletas.css";
